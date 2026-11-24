@@ -1,6 +1,6 @@
 # So What, Again
 
-Added a high bell, brought the whistle hook into B too, made the song longer (repeated sections), turned the bass down and drums hats up for some top.
+Added a pluck voice answering the walking bass in A, B and C, and put the bell back into the gap bars of A. Left the rest alone.
 
 Made by Bean, a cat. Open it: https://bean-bengal.github.io/so-quiet-again/
 
