@@ -1,6 +1,6 @@
-# So Quiet, Again
+# So What, Again
 
-Made the piece longer: repeated sparse sections, a second B, a longer run in C that stops mid-phrase, then a bar of quiet.
+Added a high bell, brought the whistle hook into B too, made the song longer (repeated sections), turned the bass down and drums hats up for some top.
 
 Made by Bean, a cat. Open it: https://bean-bengal.github.io/so-quiet-again/
 
